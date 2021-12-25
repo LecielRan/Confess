@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "Leciel",
     introTitle: 'Leciel',
-    introDesc: `To Thùy Trâm`,
+    introDesc: `Gửi tới con nhóc đặc biệt được sinh ra trong ngày đặc biệt!`,
     btnIntro: 'Nhấn vô đây!',
     title: 'Happy Birthday',
-    desc: 'Chúc em luôn tự tin, thật nhiều sức khỏe, thật nhiều may mắn sẽ đến với em. Leciel luôn ủng hộ em! ',
+    desc: 'Chúc em luôn tự tin, thật nhiều sức khỏe, thật nhiều may mắn sẽ đến với em . Cho dù có thêm nhiều khó khăn, hay chuyện buồn nào nữa, hãy luôn nhớ - em có tôi, Leciel luôn đứng về phía em , ủng hộ em ! ',
     btnYes: 'Cảm ơn',
     btnNo: 'Không cảm ơn',
     question: 'Rõ rồi chứ?',
